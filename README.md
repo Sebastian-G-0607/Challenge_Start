@@ -332,6 +332,8 @@ solution/
 ├── utils/         # 🛠️ Funciones utilitarias y helpers
 └── tests/         # 🧪 Pruebas unitarias
 ```
+## 🧠 Herramientas de IA Utilizadas
+
 Durante el desarrollo de la aplicación, utilicé herramientas de IA para generar código y mejorar la eficiencia del proceso. Aquí hay un resumen de los prompts utilizados:
 
 ### 💬 Chat GPT
